@@ -215,7 +215,68 @@
       ]
     },
     {
-      "sessionId": "w1-day3-am",
+      "sessionId": "w1-day2-s2",
+      "sessionTitle": "Day 2 — Microsoft Scout: Autonomous Delegation",
+      "track": "non-engineering",
+      "materials": [
+        {
+          "id": "w1-d2s2-teaser",
+          "type": "video",
+          "title": "Teaser Trailer",
+          "status": "current",
+          "severity": "info",
+          "finding": "Newly created material — no prior scan history.",
+          "suggestedAction": null,
+          "sources": [],
+          "detectedDate": "2026-06-23T10:00:00-07:00"
+        },
+        {
+          "id": "w1-d2s2-ppt",
+          "type": "deck",
+          "title": "Presentation",
+          "status": "current",
+          "severity": "info",
+          "finding": "Newly created material — no prior scan history.",
+          "suggestedAction": null,
+          "sources": [],
+          "detectedDate": "2026-06-23T10:00:00-07:00"
+        },
+        {
+          "id": "w1-d2s2-guide",
+          "type": "guide",
+          "title": "Facilitator Guide",
+          "status": "current",
+          "severity": "info",
+          "finding": "Newly created material — no prior scan history.",
+          "suggestedAction": null,
+          "sources": [],
+          "detectedDate": "2026-06-23T10:00:00-07:00"
+        },
+        {
+          "id": "w1-d2s2-video",
+          "type": "video",
+          "title": "Video Talk Track Prep",
+          "status": "current",
+          "severity": "info",
+          "finding": "Newly created material — no prior scan history.",
+          "suggestedAction": null,
+          "sources": [],
+          "detectedDate": "2026-06-23T10:00:00-07:00"
+        },
+        {
+          "id": "w1-d2s2-lab",
+          "type": "lab",
+          "title": "Scout Lab Practice Guide",
+          "status": "current",
+          "severity": "info",
+          "finding": "Newly created material — no prior scan history.",
+          "suggestedAction": null,
+          "sources": [],
+          "detectedDate": "2026-06-23T10:00:00-07:00"
+        }
+      ]
+    },
+    {
       "sessionTitle": "Day 3 — Build Your Own Copilot: No Code Required",
       "track": "non-engineering",
       "materials": [
