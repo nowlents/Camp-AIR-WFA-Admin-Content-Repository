@@ -196,40 +196,10 @@
       ]
     },
     {
-      "sessionId": "w1-day2-pm",
-      "sessionTitle": "Day 2 — Afternoon Practice",
-      "track": "non-engineering",
-      "materials": [
-        {
-          "id": "w1-d2pm-lab",
-          "type": "guide",
-          "title": "Lab Practice Guide",
-          "status": "current",
-          "severity": "critical",
-          "sources": [
-            "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
-            "https://www.aguidetocloud.com/blog/microsoft-copilot-cowork-pricing-cost-management/"
-          ],
-          "detectedDate": "2026-06-22T06:49:24-07:00"
-        }
-      ]
-    },
-    {
       "sessionId": "w1-day2-s2",
       "sessionTitle": "Day 2 — Microsoft Scout: Autonomous Delegation",
       "track": "non-engineering",
       "materials": [
-        {
-          "id": "w1-d2s2-teaser",
-          "type": "video",
-          "title": "Teaser Trailer",
-          "status": "current",
-          "severity": "info",
-          "finding": "Newly created material — no prior scan history.",
-          "suggestedAction": null,
-          "sources": [],
-          "detectedDate": "2026-06-23T10:00:00-07:00"
-        },
         {
           "id": "w1-d2s2-ppt",
           "type": "deck",
@@ -262,6 +232,25 @@
           "suggestedAction": null,
           "sources": [],
           "detectedDate": "2026-06-23T10:00:00-07:00"
+        }
+      ]
+    },
+    {
+      "sessionId": "w1-day2-pm",
+      "sessionTitle": "Day 2 — Afternoon Practice",
+      "track": "non-engineering",
+      "materials": [
+        {
+          "id": "w1-d2pm-lab",
+          "type": "guide",
+          "title": "Cowork Lab Practice Guide",
+          "status": "current",
+          "severity": "critical",
+          "sources": [
+            "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/",
+            "https://www.aguidetocloud.com/blog/microsoft-copilot-cowork-pricing-cost-management/"
+          ],
+          "detectedDate": "2026-06-22T06:49:24-07:00"
         },
         {
           "id": "w1-d2s2-lab",
